@@ -1,3 +1,5 @@
 def square_array(array)
+  while array *2 do
+  puts array
   # your code here
-end
+array = [12,23,34]
